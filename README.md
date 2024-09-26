@@ -35,6 +35,7 @@ Diagram
 
 
 Verilog Code for Seven-Segment Display
+
 ~~~
 module sevensegment(bcd,seg);
 input[3:0]bcd;
@@ -59,6 +60,7 @@ endmodule
 
 
 Testbench for Seven-Segment Display:
+
 ~~~
 module sevenseg(seg,s); 
 input [3:0]seg; 
