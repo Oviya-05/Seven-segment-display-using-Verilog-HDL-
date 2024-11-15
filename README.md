@@ -1,4 +1,4 @@
-**Seven-segment-display-using-Verilog-HDL**
+# Seven-segment-display-using-Verilog-HDL
 
 **Aim:**
 
